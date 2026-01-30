@@ -50,7 +50,7 @@ implementation_sources = [
     },
     {
         "state_id": "MA",
-        "implementation_type": "Executive Commitment",
+        "implementation_type": "Executive Order",
         "implementation_notes": "Executive order establishing biodiversity conservation framework aligned with 30×30 objectives.",
         "implementation_citation": "Commonwealth of Massachusetts. (2023, September 21). Executive Order No. 618: Biodiversity conservation in Massachusetts.",
         "implementation_url": "https://www.mass.gov/executive-orders/no-618-biodiversity-conservation-in-massachusetts",
@@ -139,22 +139,22 @@ progress_sources = [
         "state_id": "IL",
         "progress_type": "Active",
         "progress_notes": "Illinois DNR program page describing the state’s 30 by 30 work and coordinating activities.",
-        "progress_citation": "Illinois Department of Natural Resources. (n.d.). Illinois 30 by 30 Conservation Task Force.",
+        "progress_citation": "Illinois Department of Natural Resources. (n.d.). 30 by 30 Conservation Task Force. State of Illinois. Retrieved January 30, 2026.",
         "progress_url": "https://dnr.illinois.gov/programs/30by30.html",
     },
     {
         "state_id": "NV",
-        "progress_type": "Active",
-        "progress_notes": "",
+        "progress_type": "Dormant",
+        "progress_notes": "No publicly available updates on implementation or progress since resolution adoption.",
         "progress_citation": "",
         "progress_url": "",
     },
     {
         "state_id": "ME",
         "progress_type": "Active",
-        "progress_notes": "",
-        "progress_citation": "",
-        "progress_url": "",
+        "progress_notes": "Ongoing efforts and progress detailed in the Maine Won't Wait 2025 Progress Report.",
+        "progress_citation": "Maine Climate Council. (2025, December). 2025 Progress Report on Maine Won’t Wait. State of Maine",
+        "progress_url": "https://www.maine.gov/future/sites/maine.gov.future/files/2025-12/MWW_2025_DIGITAL-2.pdf",
     },
     {
         "state_id": "MA",
@@ -173,9 +173,16 @@ progress_sources = [
     {
         "state_id": "MI",
         "progress_type": "Active",
-        "progress_notes": "",
-        "progress_citation": "",
-        "progress_url": "",
+        "progress_notes": "State maintains an active 30×30 initiative (Michigan the Beautiful), but no consolidated progress report has been identified.",
+        "progress_citation": "Michigan Department of Natural Resources. (n.d.). Michigan the Beautiful—conserving 30% of Michigan’s lands and waters by 2030. State of Michigan. Retrieved January 30, 2026.",
+        "progress_url": "https://www.michigan.gov/dnr/managing-resources/mtb",
+    },
+    {
+        "state_id": "MI",
+        "progress_type": "Failed legislation",
+        "progress_notes": "Failed statute to establish a 30×30 protection goal.",
+        "progress_citation": "Michigan Legislature. (2024). Senate Bill 1124.",
+        "progress_url": "https://www.legislature.mi.gov/Bills/Bill?ObjectName=2024‑SB‑1124",
     },
     {
         "state_id": "NJ",
@@ -194,9 +201,9 @@ progress_sources = [
     {
         "state_id": "NY",
         "progress_type": "Active",
-        "progress_notes": "",
-        "progress_citation": "",
-        "progress_url": "",
+        "progress_notes": "Draft 30×30 Strategies published in 2024; no formal state progress report since.",
+        "progress_citation": "New York State Department of Environmental Conservation & Office of Parks, Recreation and Historic Preservation. (2024). New York State 30×30 Draft Strategies and Methodology (Draft).",
+        "progress_url": "https://dec.ny.gov/sites/default/files/2024-07/nys30x30draft.pdf",
     },
     {
         "state_id": "SC",
@@ -215,9 +222,9 @@ progress_sources = [
     {
         "state_id": "VT",
         "progress_type": "Active",
-        "progress_notes": "",
-        "progress_citation": "",
-        "progress_url": "",
+        "progress_notes": "Act 59 established 30×30 goals; the state’s 30×30 webpage documents Phase I inventory completion and ongoing plan development.",
+        "progress_citation": "Vermont Housing & Conservation Board. (n.d.). 30 by 30 (Act 59). Retrieved January 30, 2026.",
+        "progress_url": "https://vhcb.org/conservation/act-59/",
     },
 ]
 
