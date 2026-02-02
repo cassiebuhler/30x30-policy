@@ -23,8 +23,7 @@ State-level policy information is presented alongside U.S. Census state boundari
 | SC | Proposed bills | S.1024 (2020) and S.220 (2021) |
 | VT | Statute  | Act 59|
 
-![Map of 30x30 progress across the United States](30x30_state_progress.png)
-
+![Map of 30x30 implementation methods across the United States](30x30_state_implementation.png)
 
 **Implementation Key**
 - Executive Order: A formal, binding directive issued by a governor that establishes policy and directs agency action.
@@ -60,7 +59,7 @@ State-level policy information is presented alongside U.S. Census state boundari
 - Failed legislation: Proposed legislation did not pass, preventing formal implementation.
 - Halted: Implementation initiated but subsequently paused or discontinued.
 
-![Map of 30x30 implementation methods across the United States](30x30_state_implementation.png)
+![Map of 30x30 progress across the United States](30x30_state_progress.png)
 
 
 ## Sources

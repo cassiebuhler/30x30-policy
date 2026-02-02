@@ -179,7 +179,7 @@ progress_sources = [
     },
     {
         "state_id": "MI",
-        "progress_type": "Failed legislation",
+        "progress_type": "Failed Legislation",
         "progress_notes": "Failed statute to establish a 30×30 protection goal.",
         "progress_citation": "Michigan Legislature. (2024). Senate Bill 1124.",
         "progress_url": "https://www.legislature.mi.gov/Bills/Bill?ObjectName=2024‑SB‑1124",
