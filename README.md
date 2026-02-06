@@ -7,6 +7,8 @@ State-level policy information is presented alongside U.S. Census state boundari
 
 Data generated from this script is uploaded to [Source Cooperative](https://source.coop/cassiebuhler/30x30-state-policy).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18500886.svg)](https://doi.org/10.5281/zenodo.18500886)
+
 ## State-Level 30×30 Policy Implementation
 
 | State | Implementation Type | Notes | 
